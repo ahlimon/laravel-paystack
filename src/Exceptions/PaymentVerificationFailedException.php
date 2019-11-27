@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Unicodeveloper\Paystack\Exceptions;
+namespace Ahlimon\Paystack\Exceptions;
 
 use Exception;
 
