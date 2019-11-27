@@ -14,7 +14,7 @@ namespace Unicodeveloper\Paystack\Test;
 use Mockery as m;
 use GuzzleHttp\Client;
 use PHPUnit_Framework_TestCase;
-use Unicodeveloper\Paystack\Paystack;
+use Ahlimon\Paystack\Paystack;
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\Facades\Facade as Facade;
 
