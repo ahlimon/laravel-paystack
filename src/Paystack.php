@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Unicodeveloper\Paystack;
+namespace Ahlimon\Paystack;
 
 use GuzzleHttp\Client;
 use Illuminate\Support\Facades\Config;
-use Unicodeveloper\Paystack\Exceptions\IsNullException;
-use Unicodeveloper\Paystack\Exceptions\PaymentVerificationFailedException;
+use Ahlimon\Paystack\Exceptions\IsNullException;
+use Ahlimon\Paystack\Exceptions\PaymentVerificationFailedException;
 
 class Paystack
 {
